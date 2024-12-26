@@ -1,0 +1,16 @@
+# Ignorar la carpeta de compilación de Maven
+/target/
+
+# Archivos de configuración del IDE
+.idea/
+*.iml
+.vscode/
+
+# Archivos de NetBeans
+nbproject/private/
+build/
+dist/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
