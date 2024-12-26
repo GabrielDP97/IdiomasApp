@@ -1,2 +1,4 @@
 com\mycompany\idiomasapp\IdiomasApp.class
+com\mycompany\idiomasapp\SelectLanguageController.class
 com\mycompany\idiomasapp\LoginController.class
+com\mycompany\idiomasapp\MainController.class
