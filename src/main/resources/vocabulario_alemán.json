@@ -1,0 +1,152 @@
+{
+  "básico": {
+    "animales": {
+      "perro": "hund",
+      "gato": "katze",
+      "pájaro": "vogel",
+      "pez": "fisch",
+      "conejo": "kaninchen",
+      "caballo": "pferd",
+      "vaca": "kuh",
+      "oveja": "schaf",
+      "cerdo": "schwein",
+      "mono": "affe"
+    },
+    "colores": {
+      "rojo": "rot",
+      "azul": "blau",
+      "verde": "grün",
+      "amarillo": "gelb",
+      "blanco": "weiß",
+      "negro": "schwarz",
+      "morado": "lila",
+      "naranja": "orange",
+      "gris": "grau",
+      "rosa": "rosa"
+    },
+    "comida": {
+      "manzana": "apfel",
+      "pan": "brot",
+      "queso": "käse",
+      "agua": "wasser",
+      "leche": "milch",
+      "pollo": "hähnchen",
+      "pescado": "fisch",
+      "arroz": "reis",
+      "carne": "fleisch",
+      "huevo": "ei"
+    },
+    "ropa": {
+      "camisa": "hemd",
+      "pantalones": "hose",
+      "zapatos": "schuhe",
+      "sombrero": "hut",
+      "chaqueta": "jacke",
+      "falda": "rock",
+      "calcetines": "socken",
+      "guantes": "handschuhe",
+      "bufanda": "schal",
+      "vestido": "kleid"
+    }
+  },
+  "intermedio": {
+    "animales": {
+      "águila": "adler",
+      "tiburón": "hai",
+      "tigre": "tiger",
+      "león": "löwe",
+      "elefante": "elefant",
+      "zorro": "fuchs",
+      "jirafa": "giraffe",
+      "delfín": "delphin",
+      "oso": "bär",
+      "lobo": "wolf"
+    },
+    "colores": {
+      "turquesa": "türkis",
+      "celeste": "himmelblau",
+      "beige": "beige",
+      "vino": "weinrot",
+      "ocre": "ocker",
+      "lavanda": "lavendel",
+      "plateado": "silbern",
+      "dorado": "golden",
+      "marfil": "elfenbein",
+      "coral": "koralle"
+    },
+    "comida": {
+      "espagueti": "spaghetti",
+      "hamburguesa": "hamburger",
+      "sopa": "suppe",
+      "ensalada": "salat",
+      "helado": "eis",
+      "pizza": "pizza",
+      "guiso": "eintopf",
+      "tostadas": "toastbrot",
+      "cereal": "müsli",
+      "tortilla": "omelett"
+    },
+    "ropa": {
+      "sudadera": "pullover",
+      "chaleco": "weste",
+      "pijama": "pyjama",
+      "abrigo": "mantel",
+      "gorro": "mütze",
+      "sandalias": "sandalen",
+      "corbata": "krawatte",
+      "bata": "bademantel",
+      "vaqueros": "jeans",
+      "ropa interior": "unterwäsche"
+    }
+  },
+  "avanzado": {
+    "animales": {
+      "camaleón": "chamäleon",
+      "ornitorrinco": "schnabeltier",
+      "canguro": "känguru",
+      "caracol": "schnecke",
+      "pavo real": "pfau",
+      "murciélago": "fledermaus",
+      "alce": "elch",
+      "mapache": "waschbär",
+      "pingüino": "pinguin",
+      "hiena": "hyäne"
+    },
+    "colores": {
+      "esmeralda": "smaragdgrün",
+      "caqui": "khaki",
+      "ámbar": "bernstein",
+      "bermellón": "zinnoberrot",
+      "magenta": "magenta",
+      "salmón": "lachsfarben",
+      "zafiro": "saphirblau",
+      "carbón": "kohle",
+      "púrpura real": "königspurpur",
+      "verde lima": "limonengrün"
+    },
+    "comida": {
+      "lasagna": "lasagne",
+      "filete": "steak",
+      "mariscos": "meeresfrüchte",
+      "puré de papas": "kartoffelpüree",
+      "empanada": "empanada",
+      "crema": "sahne",
+      "ratatouille": "ratatouille",
+      "sushi": "sushi",
+      "paella": "paella",
+      "tarta": "kuchen"
+    },
+    "ropa": {
+      "abrigo de piel": "pelzmantel",
+      "cárdigan": "strickjacke",
+      "camiseta de tirantes": "trägerhemd",
+      "traje de baño": "badeanzug",
+      "zapatos de tacón": "stöckelschuhe",
+      "pañuelo": "taschentuch",
+      "paraguas": "regenschirm",
+      "corbata de moño": "fliege",
+      "uniforme": "uniform",
+      "zapatillas deportivas": "turnschuhe"
+    }
+  }
+}

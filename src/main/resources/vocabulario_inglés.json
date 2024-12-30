@@ -1,0 +1,152 @@
+{
+  "básico": {
+    "animales": {
+      "perro": "dog",
+      "gato": "cat",
+      "pájaro": "bird",
+      "pez": "fish",
+      "conejo": "rabbit",
+      "caballo": "horse",
+      "vaca": "cow",
+      "oveja": "sheep",
+      "cerdo": "pig",
+      "mono": "monkey"
+    },
+    "colores": {
+      "rojo": "red",
+      "azul": "blue",
+      "verde": "green",
+      "amarillo": "yellow",
+      "blanco": "white",
+      "negro": "black",
+      "morado": "purple",
+      "naranja": "orange",
+      "gris": "gray",
+      "rosa": "pink"
+    },
+    "comida": {
+      "manzana": "apple",
+      "pan": "bread",
+      "queso": "cheese",
+      "agua": "water",
+      "leche": "milk",
+      "pollo": "chicken",
+      "pescado": "fish",
+      "arroz": "rice",
+      "carne": "meat",
+      "huevo": "egg"
+    },
+    "ropa": {
+      "camisa": "shirt",
+      "pantalones": "pants",
+      "zapatos": "shoes",
+      "sombrero": "hat",
+      "chaqueta": "jacket",
+      "falda": "skirt",
+      "calcetines": "socks",
+      "guantes": "gloves",
+      "bufanda": "scarf",
+      "vestido": "dress"
+    }
+  },
+  "intermedio": {
+    "animales": {
+      "águila": "eagle",
+      "tiburón": "shark",
+      "tigre": "tiger",
+      "león": "lion",
+      "elefante": "elephant",
+      "zorro": "fox",
+      "jirafa": "giraffe",
+      "delfín": "dolphin",
+      "oso": "bear",
+      "lobo": "wolf"
+    },
+    "colores": {
+      "turquesa": "turquoise",
+      "celeste": "sky blue",
+      "beige": "beige",
+      "vino": "wine",
+      "ocre": "ochre",
+      "lavanda": "lavender",
+      "plateado": "silver",
+      "dorado": "gold",
+      "marfil": "ivory",
+      "coral": "coral"
+    },
+    "comida": {
+      "espagueti": "spaghetti",
+      "hamburguesa": "hamburger",
+      "sopa": "soup",
+      "ensalada": "salad",
+      "helado": "ice cream",
+      "pizza": "pizza",
+      "guiso": "stew",
+      "tostadas": "toast",
+      "cereal": "cereal",
+      "tortilla": "omelette"
+    },
+    "ropa": {
+      "sudadera": "sweatshirt",
+      "chaleco": "vest",
+      "pijama": "pajamas",
+      "abrigo": "coat",
+      "gorro": "cap",
+      "sandalias": "sandals",
+      "corbata": "tie",
+      "bata": "robe",
+      "vaqueros": "jeans",
+      "ropa interior": "underwear"
+    }
+  },
+  "avanzado": {
+    "animales": {
+      "camaleón": "chameleon",
+      "ornitorrinco": "platypus",
+      "canguro": "kangaroo",
+      "caracol": "snail",
+      "pavo real": "peacock",
+      "murciélago": "bat",
+      "alce": "moose",
+      "mapache": "raccoon",
+      "pingüino": "penguin",
+      "hiena": "hyena"
+    },
+    "colores": {
+      "esmeralda": "emerald",
+      "caqui": "khaki",
+      "ámbar": "amber",
+      "bermellón": "vermillion",
+      "magenta": "magenta",
+      "salmón": "salmon",
+      "zafiro": "sapphire",
+      "carbón": "charcoal",
+      "púrpura real": "royal purple",
+      "verde lima": "lime green"
+    },
+    "comida": {
+      "lasagna": "lasagna",
+      "filete": "steak",
+      "mariscos": "seafood",
+      "puré de papas": "mashed potatoes",
+      "empanada": "empanada",
+      "crema": "cream",
+      "ratatouille": "ratatouille",
+      "sushi": "sushi",
+      "paella": "paella",
+      "tarta": "pie"
+    },
+    "ropa": {
+      "abrigo de piel": "fur coat",
+      "cárdigan": "cardigan",
+      "camiseta de tirantes": "tank top",
+      "traje de baño": "swimsuit",
+      "zapatos de tacón": "high heels",
+      "pañuelo": "handkerchief",
+      "paraguas": "umbrella",
+      "corbata de moño": "bow tie",
+      "uniforme": "uniform",
+      "zapatillas deportivas": "sneakers"
+    }
+  }
+}

@@ -6,7 +6,8 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.idiomasapp.MainController">
    <children>
-      <Label layoutX="233.0" layoutY="63.0" text="Bienvenido a IdiomasApp" />
+      <Label fx:id="languageLabel" layoutX="233.0" layoutY="183.0" text="Label" />
+      <Label fx:id="welcomeLabel" layoutX="200.0" layoutY="20.0" text="Bienvenido a IdiomasApp" />
       <Button fx:id="selectLanguageButton" layoutX="147.0" layoutY="118.0" mnemonicParsing="false" onAction="#handleSelectLanguage" text="Elegir idioma" />
       <Button fx:id="practiceVocabularyButton" layoutX="368.0" layoutY="118.0" mnemonicParsing="false" onAction="#handlePracticeVocabulary" text="Practicar Vocabulario" />
       <Button fx:id="viewStatisticsButton" layoutX="141.0" layoutY="225.0" mnemonicParsing="false" onAction="#handleViewStatistics" text="Ver Estadísticas" />
